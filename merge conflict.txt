@@ -1,0 +1,2 @@
+merge conflict occur because same name of file in diffent branch 
+merge conflict resolved by adding file in another branch
