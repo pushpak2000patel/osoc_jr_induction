@@ -1,0 +1,24 @@
+commit 72cc37613c42164eebe4e4899c8b37eb92ee4ac5 (HEAD -> branch_1)
+Merge: 15e78a4 6a6fb44
+Author: pushpak <pushpakpatel4845@gmail.com>
+Date:   Fri Jan 7 21:21:59 2022 +0530
+
+    all conflicts fixed
+
+commit 15e78a4a218cf82e9d6b39991726f8ede9aa07bb
+Author: pushpak <pushpakpatel4845@gmail.com>
+Date:   Fri Jan 7 21:18:06 2022 +0530
+
+    merge conflicts resolved
+
+commit 4a974acaa7db21ea0c07111bf26b00ac8265bf8a
+Author: pushpak <pushpakpatel4845@gmail.com>
+Date:   Fri Jan 7 21:15:10 2022 +0530
+
+    merge conflict in text file
+
+commit 6a6fb447a917f05afe6c2d962d26e44b8019a6f3 (main)
+Author: pushpak <pushpakpatel4845@gmail.com>
+Date:   Fri Jan 7 21:07:02 2022 +0530
+
+    merge conflicts occur
